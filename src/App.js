@@ -27,7 +27,7 @@ function App() {
 
 	return (
 		<div className=" w-screen h-screen p-6">
-			<div className="rounded-md h-full w-full bg-red-300 bg-[url('./assets/banner-img.jpg')] bg-cover flex flex-col justify-between">
+			<div className="rounded-md h-full w-full bg-[url('./assets/banner-img.jpg')] bg-cover flex flex-col justify-between">
 				<div className="mt-[120px] md:w-1/2 w-full  bg-gradient-to-r from-white to-transparent h-[200px] flex justify-center">
 					<div className="h-full leading-none flex flex-col justify-center">
 						<p className="relative italic">
