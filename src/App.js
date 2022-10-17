@@ -53,7 +53,7 @@ function App() {
 					</div>
 				</div>
 				<div className="flex justify-center mb-[150px] h-20 relative flex-col md:flex-row md:p-0 p-5">
-					<div className="bg-green flex justify-center text-center flex-col text-white md:p-5 p-2 rounded-bl-md rounded-tl-md">
+		<div className="bg-green flex justify-center text-center flex-col text-white md:p-5 p-2 rounded-bl-md rounded-tl-md rounded-tr-md md:rounded-tr-none">
 						<p className="font-bold">SCHEDULE A DEMO</p>
 						<p className="text-xs">Learn More About FloQast.</p>
 					</div>
@@ -62,7 +62,7 @@ function App() {
 						<div className="h-[80px] bg-green transform origin-bottom-right absolute w-[150px] top-[-40px] right-0 skew-y-[-50deg] skew-x-[10deg] rotate-[-15deg]"></div>
 					</div>
 
-					<div className="px-5 flex justify-center flex-col bg-white md:p-0 p-2 rounded-tr-md rounded-br-md">
+		<div className="px-5 flex justify-center flex-col bg-white md:p-0 p-2 md:rounded-tr-md rounded-br-md rounded-tr-none rounded-bl-md md:rounded-bl-none">
 						<form className="text-center px-2 flex md:inline flex-col gap-2">
 							<p className="text-xs">
 								<span className="text-gray font-bold">
